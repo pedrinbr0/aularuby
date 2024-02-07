@@ -1,0 +1,1 @@
+Estou compartilhando este projeto que fiz para aprender o básico de Ruby, antes de me dedicar ao estudo do Git. Sinta-se à vontade para dar uma olhada.
